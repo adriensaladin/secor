@@ -21,7 +21,6 @@ public class KafkaTimestampedMessageParser extends DailyOffsetMessageParser {
 
         super(config);
 
-        LOG.error("coucou");
     }
 
 
