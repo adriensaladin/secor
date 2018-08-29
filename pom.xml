@@ -100,7 +100,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-s3</artifactId>
-            <version>1.11.160</version>
+            <version>1.11.397</version>
         </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
@@ -297,7 +297,7 @@
         <dependency>
             <groupId>com.google.apis</groupId>
             <artifactId>google-api-services-storage</artifactId>
-            <version>v1-rev40-1.20.0</version>
+            <version>v1beta1-rev193-1.24.1</version>
             <exclusions>
                 <exclusion>
                     <groupId>com.google.guava</groupId>
@@ -308,7 +308,7 @@
         <dependency>
             <groupId>com.microsoft.azure</groupId>
             <artifactId>azure-storage</artifactId>
-            <version>4.0.0</version>
+            <version>8.0.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.orc</groupId>
